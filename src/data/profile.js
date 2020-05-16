@@ -1,22 +1,23 @@
 const profile = {
-  name: 'S.Berkay Aydın',
-  title: 'Full Stack Developer',
-  mail: 'sbaydin06@gmail.com',
-  phoneNumber: '+90 (507) 808 4130',
+  name: 'Pavel Yakhontov',
+  title: 'React Native Developer',
+  mail: 'yahontovpavel@gmail.com',
+  phoneNumber: '+380 68 668 71 09',
   website: 'sbaydin.com',
-  linkedin: 'linkedin.com/in/sbaydin',
-  github: 'github.com/sbayd',
+  linkedin: 'linkedin.com/in/pavel-yakhontov-ab2825110',
+  github: 'github.com/paul-yakhontov',
   imagePath: 'profile.png',
   twitter: null,
   educationDetails: {
     sectionTitle: '',
     list: [
-      { name: 'BSc in CEIT', school: 'Hacettepe University', date: '2013-Present' },
+      { name: 'Bachelor of Computer Science', school: 'State Pedagogical University in Kryvyi Rih', date: '2014-2018' },
+      { name: 'Master of Education (Computer Science), Teacher of Computer Science, Engineer-Programmer', school: 'State Pedagogical University in Kryvyi Rih', date: '2018-2020' },
     ]
   },
   languages: {
     sectionTitle: 'Languages',
-    list: [{ name: 'Turkish', level: 'Native' }, { name: 'English', level: 'Professional' }, { name: 'Spanish', level: 'Beginner' }]
+    list: [{ name: 'Russian', level: 'Native' }, { name: 'Ukrainian', level: 'Native' }, { name: 'English', level: 'Intermediate' }, ]
   },
   interests: {
     sectionTitle: '',

@@ -4,36 +4,37 @@ export const experiences = {
   description: null,
   list: [
     {
-      title: 'Lead Software Developer',
-      company: 'JotForm',
-      description: 'I\'m working as a lead developer at JotForm Source team. We are creating some amazing features for JotForm!',
-      companyLink: 'http://jotform.com',
+      title: 'React Native Developer',
+      company: 'vznaniya.ru',
+      description: 'I\'m working as a lead and react-native developer at Vznaniya.ru. I created ios and android application for educational platform Vznaniya and developed new design for student side in Vznaniya.ru website.',
+      companyLink: 'http://vznaniya.ru',
       companyShortDetail: '',
-      date: '2017.10 - Present'
+      date: '2019.09 - 2020.05'
     },
     {
-      title: 'Software Developer',
-      company: 'JotForm',
-      description: 'I\'m using ReactJS and working as a front-end developer to develop new features for JotForm.',
-      companyLink: 'http://jotform.com',
+      title: 'Full-stack (php, js) developer',
+      company: 'oldwar.ru / mydwar.ru',
+      description: 'Maintained games and developed patches for BMMO Legend: Legacy of the Dragons (part-time)',
+      companyLink: 'http://mydwar.ru/',
       companyShortDetail: '',
-      date: '2016.8 - 2017.10'
+      date: '2019.05 - 2019.09'
     },
     {
-      title: 'Full-Stack Developer',
-      company: 'YD Software',
-      description: 'I was using ASP.Net MVC Framework with N Tier Architecture to develop management systems, learning management systems & big data projects. And i was developing Android / IOS applications using Xamarin or NDK. You can see projects that I have completed for YD Software <a href=\'#projects\'>below.</a>',
-      companyLink: 'http://ydyazilim.com',
-      companyShortDetail: 'ANKARA METU Technopolis(ODTU Teknokent)',
-      date: '2012 - 2016.8'
-    },
+      title: 'Front-end developer',
+      company: 'Approx.ru',
+      description: 'Participated in game development, developed on React, React Native, VueJs',
+      companyLink: 'approx.ru',
+      companyShortDetail: '',
+      date: '2018.07 - 2019.09'
+    }
+    ,
     {
-      title: 'Intern',
-      company: 'YD Software',
-      description: 'I was warming up with a Learning Management System including desktop and web apps.',
-      companyLink: 'http://ydyazilim.com',
-      companyShortDetail: 'ANKARA METU Technopolis(ODTU Teknokent)',
-      date: '2012.06 - 2012.10'
+      title: 'Full-stack (php, js) developer',
+      company: 'Creaolab',
+      description: 'Worked on several projects, such as the cryptocurrency exchange and educational app for android, developed many small projects, performed various kinds of work on the freelancer.ru',
+      companyLink: 'approx.ru',
+      companyShortDetail: '',
+      date: '2017.05 - 2018.05'
     }
   ]
 };

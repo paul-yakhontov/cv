@@ -9,14 +9,11 @@ export const tags = {
     'Webpack',
     'Npm/Yarn',
     'Git',
-    'C#',
-    'ASP.NETMVC',
+    'Vue.js',
     'PHP',
-    'SOLID PRINCIPLES',
-    'XAMARIN',
-    'LINQ',
-    'N-TIER ARCHITECTURE',
-    'SOA ARCHITECTURE']
+    'OOP',
+    'MVC',
+  ]
 };
 
 export default tags;

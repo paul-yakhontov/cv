@@ -4,104 +4,64 @@ export const projects = {
   description: 'Projects, i have completed & attended are listed below. To get general information about private project or not-finished projects you can get in touch.',
   categories: [
     {
-      name: 'JotForm',
-      list: [{
-        url: 'https:////www.jotform.com/meet-jotform-4/',
-        title: 'Easiest Online Form Builder',
-        description: 'I am a member of the development team of JotForm\'s Form Builder. I used React / Redux /  Webpack / Socket.io. This is my favorite project.'
-      }, {
-        url: 'https:////www.jotform.com/cards/',
-        title: 'JotForm Cards',
-        description: 'JotForm Cards is a next generation web form type. I used React SSR / Vanilla JS / Webpack'
-      }, {
-        url: 'https:////www.jotform.com//products//pdf-editor//',
-        title: 'PDF Editor',
-        description: 'JotForm\'s PDF Editor allows you to create automated reports for your form submissions. It also lets you create Fillable Forms (Adobe interactive forms). React / Redux / Webpack'
-      }],
+      name: 'Vznaniya.ru',
+      list: [
+        {
+          url: 'https://play.google.com/store/apps/details?id=com.vznaniya1',
+          title: 'Android application Vznaniya',
+          description: 'Android application developed with React Native, Redux, Redux-Thunk, RN-iap etc.'
+        },
+        {
+          url: 'https://apps.apple.com/ru/app/%D0%B2%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D1%8F/id1440122401',
+          title: 'iOS application Vznaniya',
+          description: 'iOS application developed with React Native, Redux, Redux-Thunk, RN-iap etc.'
+        },
+        {
+          url: 'https://vznaniya.ru/',
+          title: 'Vznaniya website',
+          description: 'Educational platform Vznaniya.ru, developed with Laravel, React-Native-Web, React, Vue.js'
+        }
+      ]
     },
     {
-      name: 'YD Software',
+      name: 'IGL',
+      list: [
+        {
+          url: 'https://play.google.com/store/apps/details?id=com.lafjourneyquest&hl=af',
+          title: 'Android application LAF Journey',
+          description: 'Simple Text Adventure developed by myself for my friend in December 2019.'
+        }
+      ]
+    },
+    {
+      name: 'Approx.ru',
       list: [{
-        url: 'http:////mavimasa.ankara.bel.tr',
-        title: 'Mavi Masa',
-        description: 'Ankara Metropolitan Municipality - Mavi Masa Project - Mobile Applications (C# / Oracle / Android SDK - Java / iOS SDK/ Web Services)'
+        url: 'https://screechofsteel.ru/',
+        title: 'Online game - SCREECH OF STEEL: GLADIATORS',
+        description: 'I developed back-end and front-end for website and was attending to developing server-side logic for game'
       },
       {
-        url: 'http:////giris.odtuteknokent.com.tr',
-        title: 'TKBS',
-        description: 'METU Technopolis Information System ( C# / SQL Server / Xamarin / MongoDB / Web Services)'
-      },
-      {
-        url: 'http:////yfyi2.odtuteknokent.com.tr',
-        title: 'YFYI',
-        description: 'New Business New Ideas(YFYİ) Entrepreneurship Acceleration Program Management System ( C# / SQL Server / Web Services)'
-      },
-      {
-        url: 'http:////ggj.odtuteknokent.com.tr',
-        title: 'Global Game Jam',
-        description: 'Global Game Jam (METU Technopolis) Management System ( C# / SQL Server / Web Services)'
-      },
-      {
-        url: 'http:////atom.odtuteknokent.com.tr',
-        title: 'ATOM in Games',
-        description: 'ATOM Pre-Incubation Center (METU Technopolis) Management System ( C# / SQL Server / Web Services)'
-      },
-      {
-        url: 'http:////sanayipolitikalari.sanayi.gov.tr',
-        title: 'Sanayi Politikalari Portali',
-        description: 'T.C. Industry Ministry Industrial Policies Portal ( C# / SQL Server / Web Services)'
-      },
-      {
-        url: 'http:////teknojump2.odtuteknokent.com.tr',
-        title: 'TeknoJUMP',
-        description: 'TeknoJUMP Entrepreneurship Acceleration Program Management System ( C# / SQL Server / Web Services)'
-      },
-      {
-        url: 'http:////bigg.odtuteknokent.com.tr',
-        title: 'TUBITAK BIGG / 1512',
-        description: 'TUBITAK Invidual Young Enterprise(BİGG/1512) Program Management System - METU ( C# / SQL Server / Web Services )'
-      },
-      {
-        url: 'http:////aosb.org.tr',
-        title: 'AOSB',
-        description: 'Ankara Chamber of Industry 1st Organized Industrial Zone Web Portal - Mobile Applications (C#, SQL Server, Android SDK - Java / iOS SDK / Web Services)'
-      },
-      {
-        url: '',
-        title: 'AMS App',
-        description: 'Central Bank of the Republic of Turkey (TCMB) Mobile Archive Management System ( Android SDK / Xamarin / Urovo SDK)'
-      },
-      {
-        url: 'http:////yee.org.tr',
-        title: 'YEE Z-BOOK',
-        description: 'Yunus Emre Institute Z-Book Education Platform (C#/ MongoDB/ SQLite, Web Services)'
-      },
-      {
-        url: 'http:////evdekiogretmen.bilfen.com',
-        title: 'Evdeki Ögretmen(Teacher at Home)',
-        description: 'Bilfen Evdeki Ogretmen Online Education System (C# / SQL Server / Web Services)'
+        url: 'https://appfox.ru/company/portfolio/razrabotka-brauzernoi-viktorini/',
+        title: 'Online game for VK.ru',
+        description: 'A multiplayer online game in which you can use all the necessary resources to earn real money just by answering questions. I was one of front-end developers.'
       }]
     },
     {
-      name: 'Extracurricular Activities',
-      list: [
-        {
-          url: '',
-          title: 'Mobile Exam System',
-          description: 'A mobile exam project for a company written with Xamarin.Android, Laravel'
-        },
-        {
-          url: 'http:////www.karmer.hacettepe.edu.tr/hutest/',
-          title: 'RIASEC Student Career Profile',
-          description: 'Hacettepe University Career Development Application And Research Center Student Profile Application ( PHP(CI), MySQL, MongoDB)'
-        },
-        {
-          url: '',
-          title: 'Educational Mobile Game Framework',
-          description: 'A personal project for physical interactive mobile game development ( C#, Xamarin, Vuforia , OpenCV, MongoDB)'
-        }
-      ]
-    }
+      name: 'Creolab',
+      list: [{
+        url: 'https://worldswop.com/',
+        title: 'E-currency exchange service.',
+        description: 'I developed this website on freelance using wordpress and it\'s modules.'
+      }, {
+        url: 'http://mydwar.ru/',
+        title: 'BMMORPG Legend: Legacy of the Dragons',
+        description: 'The game and the site were built and configured by me from ready- made materials'
+      }, {
+        url: 'https://creolab.ru/',
+        title: 'Website for outsourcing company',
+        description: 'Website-portfolio for outsourcing company developed using Vue.js and Laravel'
+      }],
+    },
   ]
 };
 

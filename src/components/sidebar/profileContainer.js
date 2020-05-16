@@ -4,7 +4,12 @@ import PropTypes from 'prop-types';
 export default class ProfileContainer extends Component {
   renderProfilePicture(imagePath) {
     if (imagePath) {
-      return (<img className="profile" src={imagePath} alt="" style={{ maxWidth: 185 }} />);
+      return (<img className="profile" src={imagePath} alt="" 
+      style={{ 
+        maxWidth: 190, 
+        backgroundColor: 'white',
+        borderRadius: 100
+       }} />);
     }
     return null;
   }
