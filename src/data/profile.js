@@ -12,7 +12,7 @@ const profile = {
     sectionTitle: '',
     list: [
       { name: 'Bachelor of Computer Science', school: 'State Pedagogical University in Kryvyi Rih', date: '2014-2018' },
-      { name: 'Master of Education (Computer Science), Teacher of Computer Science, Engineer-Programmer', school: 'State Pedagogical University in Kryvyi Rih', date: '2018-2020' },
+      { name: 'Master of Computer Science, Teacher of Computer Science, Engineer-Programmer', school: 'State Pedagogical University in Kryvyi Rih', date: '2018-2020' },
     ]
   },
   languages: {
@@ -21,7 +21,7 @@ const profile = {
   },
   interests: {
     sectionTitle: '',
-    list: ['Pipes', 'Analog Photography', 'Cooking', 'Archery', 'Poems', 'Drums']
+    list: ['Programming', 'History', 'Sport', 'Game Dev', 'Parties', 'New friendships'] 
   }
 };
 

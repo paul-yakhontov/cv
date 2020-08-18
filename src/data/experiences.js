@@ -5,8 +5,16 @@ export const experiences = {
   list: [
     {
       title: 'React Native Developer',
+      company: 'What\'s the move?',
+      description: 'Worked in the WTM tech team, What\'s the move? is a startup for nightlife includes apps for users, owners and couple of websites that works together for making new experience for the nightlife (clubs, bars, events etc. ). I was involved in developing ios application using react native and firebase.',
+      companyLink: 'http://vznaniya.ru',
+      companyShortDetail: '',
+      date: '2020.05 - 2020.08'
+    },
+    {
+      title: 'React Native Developer',
       company: 'vznaniya.ru',
-      description: 'I\'m working as a lead and react-native developer at Vznaniya.ru. I created ios and android application for educational platform Vznaniya and developed new design for student side in Vznaniya.ru website.',
+      description: 'I\'m worked as a lead and react-native developer at Vznaniya.ru. I created ios and android application for educational platform Vznaniya and developed new design for student side in Vznaniya.ru website.',
       companyLink: 'http://vznaniya.ru',
       companyShortDetail: '',
       date: '2019.09 - 2020.05'
