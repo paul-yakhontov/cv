@@ -4,6 +4,22 @@ export const experiences = {
   description: null,
   list: [
     {
+      title: 'Middle React Native Developer',
+      company: 'Iternal group',
+      description: 'Working on complex software solutions with amazing team.',
+      companyLink: 'https://iternal.group/',
+      companyShortDetail: '',
+      date: '2021.03 - current time'
+    },
+    {
+      title: 'Middle React Native Developer',
+      company: 'WAF Agency | We Are The Future',
+      description: 'Worked on the construction company app named Groundworks, Groundworks it\'s task manager app for builders.',
+      companyLink: 'https://waf.com.ua/',
+      companyShortDetail: '',
+      date: '2020.09 - 2021.03'
+    },
+    {
       title: 'React Native Developer',
       company: 'What\'s the move?',
       description: 'Worked in the WTM tech team, What\'s the move? is a startup for nightlife includes apps for users, owners and couple of websites that works together for making new experience for the nightlife (clubs, bars, events etc. ). I was involved in developing ios application using react native and firebase.',
